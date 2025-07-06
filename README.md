@@ -61,8 +61,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git https://github.com/Bellerinashine/QuizApp.git
-cd micro-quiz-platform
+git https://github.com/Bellerinashine/Quiz-app
 
 npm install
 ng serve
