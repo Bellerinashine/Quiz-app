@@ -1,0 +1,56 @@
+{
+    
+  "title": "Physics Basics",
+  "questions": [
+        {
+    "question": "What is the basic unit of life?",
+    "options": ["Tissue", "Organ", "Cell", "Atom"],
+    "correct": "Cell"
+  },
+  {
+    "question": "Which organ is responsible for pumping blood?",
+    "options": ["Lungs", "Liver", "Heart", "Kidneys"],
+    "correct": "Heart"
+  },
+  {
+    "question": "Which blood cells help fight infection?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "correct": "White blood cells"
+  },
+  {
+    "question": "What is the process by which plants make their food?",
+    "options": ["Transpiration", "Respiration", "Photosynthesis", "Digestion"],
+    "correct": "Photosynthesis"
+  },
+  {
+    "question": "Which organ controls the body’s activities?",
+    "options": ["Heart", "Brain", "Liver", "Stomach"],
+    "correct": "Brain"
+  },
+  {
+    "question": "How many chambers are there in the human heart?",
+    "options": ["2", "3", "4", "5"],
+    "correct": "4"
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "correct": "Vitamin D"
+  },
+  {
+    "question": "Which organ helps in removing waste from the blood?",
+    "options": ["Lungs", "Heart", "Kidneys", "Stomach"],
+    "correct": "Kidneys"
+  },
+  {
+    "question": "What is the function of red blood cells?",
+    "options": ["Fight infection", "Clot blood", "Carry oxygen", "Digest food"],
+    "correct": "Carry oxygen"
+  },
+  {
+    "question": "Which part of the plant absorbs water and nutrients from the soil?",
+    "options": ["Stem", "Leaves", "Roots", "Flowers"],
+    "correct": "Roots"
+  }
+  ]
+}

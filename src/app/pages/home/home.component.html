@@ -1,0 +1,32 @@
+<div class="home-container">
+  <h1 class="main-title">Welcome to the Micro-Quiz Platform</h1>
+  <p class="description">
+    Choose a category below to take short, focused quizzes designed to quickly test your knowledge in each topic.
+    Each quiz contains a few carefully selected questions and immediate feedback on your performance.
+  </p>
+  <h2 class="main-title">About the Platform</h2>
+  <p class="description">
+    The Micro-Quiz Platform is a modern, lightweight web application designed to help users quickly assess and
+    strengthen their knowledge in various subject areas. Each quiz is short and focused, making it ideal for fast
+    learning sessions, self-assessment, or revision. </p>
+
+  <p class="description">Built using cutting-edge web technologies like Angular and RESTful APIs, the platform ensures a
+    responsive, user-friendly interface accessible across devices. Dynamic routing, efficient state management, and
+    modular design allow for easy scaling and integration of new topics. 
+  </p>
+
+
+  <h2 class="heading">Select a Category</h2>
+
+  <div class="category-list">
+    <div class="category-card" *ngFor="let category of categories">
+      <button [routerLink]="['/quizzes', category]" class="category-button">
+        {{ category }}
+      </button>
+    </div>
+  </div>
+  <br>
+  <footer class="footer">
+    <p>&copy; 2025 Micro-Quiz Platform. All rights reserved.</p>
+  </footer>
+</div>

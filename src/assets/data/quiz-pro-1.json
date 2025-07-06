@@ -1,0 +1,55 @@
+{
+    "title": "C++ Basics",
+    "questions": [
+      {
+    "question": "Which of the following is the correct extension of C++ files?",
+    "options": [".cpp", ".c", ".class", ".py"],
+    "correct": ".cpp"
+  },
+  {
+    "question": "Who developed C++ programming language?",
+    "options": ["Dennis Ritchie", "James Gosling", "Guido van Rossum", "Bjarne Stroustrup"],
+    "correct": "Bjarne Stroustrup"
+  },
+  {
+    "question": "Which keyword is used to create a class in C++?",
+    "options": ["struct", "define", "class", "object"],
+    "correct": "class"
+  },
+  {
+    "question": "Which symbol is used to terminate a statement in C++?",
+    "options": [":", ".", ";", ","],
+    "correct": ";"
+  },
+  {
+    "question": "Which header file is needed to use input/output in C++?",
+    "options": ["<iostream>", "<stdio.h>", "<conio.h>", "<stdlib.h>"],
+    "correct": "<iostream>"
+  },
+  {
+    "question": "Which C++ feature allows the use of the same function name with different parameters?",
+    "options": ["Inheritance", "Overloading", "Polymorphism", "Encapsulation"],
+    "correct": "Overloading"
+  },
+  {
+    "question": "What is the correct way to start the main function in C++?",
+    "options": ["main()", "int main", "void main()", "int main()"],
+    "correct": "int main()"
+  },
+  {
+    "question": "What will `cout << 4 + 3;` output?",
+    "options": ["7", "4 + 3", "cout << 7", "error"],
+    "correct": "7"
+  },
+  {
+    "question": "Which of the following is used to take input from the user in C++?",
+    "options": ["cin", "cout", "scanf", "print"],
+    "correct": "cin"
+  },
+  {
+    "question": "Which concept allows you to define multiple functions with the same name?",
+    "options": ["Function Overriding", "Function Overloading", "Abstraction", "Constructor"],
+    "correct": "Function Overloading"
+  }
+    ]
+}

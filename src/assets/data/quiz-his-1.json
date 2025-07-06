@@ -1,0 +1,75 @@
+{
+    "title": "World war-1 Basics",
+    "questions": [
+ {
+    "question": "In which year did World War I begin?",
+    "options": ["1914", "1918", "1939", "1920"],
+    "correct": "1914"
+  },
+  {
+    "question": "Which event is considered the spark that started World War I?",
+    "options": [
+      "The sinking of the Titanic",
+      "Assassination of Archduke Franz Ferdinand",
+      "Treaty of Versailles",
+      "Invasion of Poland"
+    ],
+    "correct": "Assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "question": "Which countries were part of the Allied Powers?",
+    "options": [
+      "Germany, Austria-Hungary, Italy",
+      "France, Britain, Russia",
+      "Japan, Germany, Italy",
+      "USA, Germany, Austria"
+    ],
+    "correct": "France, Britain, Russia"
+  },
+  {
+    "question": "Which weapon was introduced during World War I?",
+    "options": ["Atomic bomb", "Tanks", "Missiles", "Jet aircraft"],
+    "correct": "Tanks"
+  },
+  {
+    "question": "What was the area between opposing trenches called?",
+    "options": ["War zone", "Neutral field", "No man's land", "Battlefront"],
+    "correct": "No man's land"
+  },
+  {
+    "question": "Which country left the war after the 1917 revolution?",
+    "options": ["Germany", "Italy", "Russia", "France"],
+    "correct": "Russia"
+  },
+  {
+    "question": "What was the purpose of the League of Nations?",
+    "options": [
+      "To win World War I",
+      "To rebuild Europe",
+      "To prevent future wars",
+      "To divide territories"
+    ],
+    "correct": "To prevent future wars"
+  },
+  {
+    "question": "What treaty officially ended World War I?",
+    "options": [
+      "Treaty of Berlin",
+      "Treaty of Versailles",
+      "Treaty of London",
+      "Treaty of Tordesillas"
+    ],
+    "correct": "Treaty of Versailles"
+  },
+  {
+    "question": "Which country joined the war in 1917 and helped tip the balance?",
+    "options": ["Spain", "United States", "Japan", "China"],
+    "correct": "United States"
+  },
+  {
+    "question": "What global pandemic followed World War I?",
+    "options": ["COVID-19", "Spanish Flu", "Black Death", "SARS"],
+    "correct": "Spanish Flu"
+  }
+    ]
+}

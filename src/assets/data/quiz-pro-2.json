@@ -1,0 +1,55 @@
+{
+    "title": "Jvava Basics",
+    "questions": [
+      {
+    "question": "Who developed the Java programming language?",
+    "options": ["James Gosling", "Dennis Ritchie", "Guido van Rossum", "Bjarne Stroustrup"],
+    "correct": "James Gosling"
+  },
+  {
+    "question": "Which file extension is used for Java source files?",
+    "options": [".js", ".java", ".class", ".cpp"],
+    "correct": ".java"
+  },
+  {
+    "question": "Which keyword is used to define a class in Java?",
+    "options": ["define", "class", "struct", "module"],
+    "correct": "class"
+  },
+  {
+    "question": "What is the entry point of a Java program?",
+    "options": ["start()", "main()", "init()", "run()"],
+    "correct": "main()"
+  },
+  {
+    "question": "Which method is used to print output in Java?",
+    "options": ["System.out.print()", "printf()", "cout", "console.log()"],
+    "correct": "System.out.print()"
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": ["inherit", "extends", "implements", "inherits"],
+    "correct": "extends"
+  },
+  {
+    "question": "Which of these is a valid data type in Java?",
+    "options": ["integer", "number", "int", "real"],
+    "correct": "int"
+  },
+  {
+    "question": "Which access modifier makes a member accessible from any class?",
+    "options": ["private", "protected", "default", "public"],
+    "correct": "public"
+  },
+  {
+    "question": "Which keyword is used to create an object in Java?",
+    "options": ["class", "this", "new", "obj"],
+    "correct": "new"
+  },
+  {
+    "question": "What does JVM stand for?",
+    "options": ["Java Virtual Machine", "Java Verified Mode", "Just Virtual Memory", "Java Variable Manager"],
+    "correct": "Java Virtual Machine"
+  }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "kargil war Quiz",
+    "questions": [
+  {
+    "question": "In which year did the Kargil War take place?",
+    "options": ["1997", "1999", "2001", "1995"],
+    "correct": "1999"
+  },
+  {
+    "question": "Which two countries were involved in the Kargil War?",
+    "options": ["India and China", "India and Pakistan", "Pakistan and Afghanistan", "India and Bangladesh"],
+    "correct": "India and Pakistan"
+  },
+  {
+    "question": "The Kargil War was fought in which Indian state at the time?",
+    "options": ["Uttarakhand", "Jammu and Kashmir", "Punjab", "Himachal Pradesh"],
+    "correct": "Jammu and Kashmir"
+  },
+  {
+    "question": "Which operation was launched by India to push back infiltrators during the Kargil War?",
+    "options": ["Operation Blue Star", "Operation Meghdoot", "Operation Vijay", "Operation Parakram"],
+    "correct": "Operation Vijay"
+  },
+  {
+    "question": "Who was the Prime Minister of India during the Kargil War?",
+    "options": ["Manmohan Singh", "Indira Gandhi", "Atal Bihari Vajpayee", "Narendra Modi"],
+    "correct": "Atal Bihari Vajpayee"
+  },
+  {
+    "question": "Who was the Indian Army Chief during the Kargil War?",
+    "options": ["General Bipin Rawat", "General V. P. Malik", "General Sundararajan Padmanabhan", "General Deepak Kapoor"],
+    "correct": "General V. P. Malik"
+  },
+  {
+    "question": "Which brave Indian soldier was posthumously awarded the Param Vir Chakra for his actions in the Kargil War?",
+    "options": ["Captain Vikram Batra", "Major Sandeep Unnikrishnan", "Captain Anuj Nayyar", "Major Rajesh Singh Adhikari"],
+    "correct": "Captain Vikram Batra"
+  },
+  {
+    "question": "Which mountain peak was recaptured by Captain Vikram Batra and his unit?",
+    "options": ["Tiger Hill", "Tololing", "Point 4875", "Batalik"],
+    "correct": "Point 4875"
+  },
+  {
+    "question": "What was the primary reason behind the Kargil War?",
+    "options": ["Trade Dispute", "Border Infiltration by Pakistani troops", "Religious Conflict", "Dispute over Kashmir elections"],
+    "correct": "Border Infiltration by Pakistani troops"
+  },
+  {
+    "question": "Which day is commemorated as Kargil Vijay Diwas in India?",
+    "options": ["26th July", "15th August", "2nd October", "26th January"],
+    "correct": "26th July"
+  }
+]
+
+}

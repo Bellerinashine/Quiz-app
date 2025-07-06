@@ -1,0 +1,55 @@
+{
+  "title": "Physics Basics",
+  "questions": [
+  {
+    "question": "What is the unit of force?",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "correct": "Newton"
+  },
+  {
+    "question": "Speed is measured in?",
+    "options": ["m/s", "kg", "N", "J"],
+    "correct": "m/s"
+  },
+  {
+    "question": "Which gas is essential for human respiration?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "correct": "Oxygen"
+  },
+  {
+    "question": "What is H₂O commonly known as?",
+    "options": ["Hydrogen Peroxide", "Salt", "Water", "Oxygen"],
+    "correct": "Water"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correct": "Mars"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "0°C", "80°C"],
+    "correct": "100°C"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Stem", "Roots", "Leaves", "Flowers"],
+    "correct": "Leaves"
+  },
+  {
+    "question": "What type of energy is stored in food?",
+    "options": ["Kinetic", "Electrical", "Chemical", "Thermal"],
+    "correct": "Chemical"
+  },
+  {
+    "question": "Which gas do plants absorb from the air?",
+    "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "correct": "Carbon Dioxide"
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "options": ["Barometer", "Thermometer", "Ammeter", "Manometer"],
+    "correct": "Thermometer"
+  }
+]
+}

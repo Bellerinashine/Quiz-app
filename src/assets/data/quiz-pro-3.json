@@ -1,0 +1,55 @@
+{
+    "title": "Python Basics",
+    "questions": [
+      {
+    "question": "Who developed Python programming language?",
+    "options": ["James Gosling", "Dennis Ritchie", "Guido van Rossum", "Bjarne Stroustrup"],
+    "correct": "Guido van Rossum"
+  },
+  {
+    "question": "Which file extension is used for Python files?",
+    "options": [".py", ".python", ".pt", ".pyt"],
+    "correct": ".py"
+  },
+  {
+    "question": "What is the correct way to output text in Python?",
+    "options": ["print()", "echo()", "System.out.print()", "cout"],
+    "correct": "print()"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["function", "def", "fun", "define"],
+    "correct": "def"
+  },
+  {
+    "question": "Which data type is used to store True or False values?",
+    "options": ["str", "bool", "int", "float"],
+    "correct": "bool"
+  },
+  {
+    "question": "What symbol is used for comments in Python?",
+    "options": ["//", "/* */", "#", "<!-- -->"],
+    "correct": "#"
+  },
+  {
+    "question": "How do you create a list in Python?",
+    "options": ["{}", "()", "[]", "<>"],
+    "correct": "[]"
+  },
+  {
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["^", "**", "//", "exp()"],
+    "correct": "**"
+  },
+  {
+    "question": "What does the 'len()' function do?",
+    "options": ["Returns the length", "Deletes data", "Calculates average", "Creates a loop"],
+    "correct": "Returns the length"
+  },
+  {
+    "question": "Which of these is a valid variable name in Python?",
+    "options": ["2value", "value_2", "value-2", "value 2"],
+    "correct": "value_2"
+  }
+    ]
+}

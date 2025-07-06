@@ -1,0 +1,23 @@
+<div class="quiz-container">
+  <section class="intro-section">
+    <h1>Explore {{ category }} Quizzes</h1>
+    <p>
+      Dive into a collection of short and engaging quizzes to test your understanding of {{ category }} concepts.
+      These quizzes are crafted to sharpen your skills and provide instant feedback — perfect for learners of all levels.
+    </p>
+  </section>
+
+  <h2 class="category-title">Available Quizzes</h2>
+
+  <div class="quiz-list">
+    <div class="quiz-card" *ngFor="let quiz of quizzes">
+      <h3>{{ quiz.title }}</h3>
+      <p>{{ quiz.description || 'Test your skills in this short quiz.' }}</p>
+      <a [routerLink]="['/quiz', quiz.id]" class="start-button">Start Quiz</a>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>&copy; 2025 Micro-Quiz Platform. All rights reserved.</p>
+  </footer>
+</div>

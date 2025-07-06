@@ -1,0 +1,28 @@
+<div class="quiz-wrapper" *ngIf="quiz && !finished">
+  <h2 class="quiz-title">{{ quiz.title }}</h2>
+  <p class="question-count">Question {{ current + 1 }} of {{ quiz.questions.length }}</p>
+
+  <div class="question-box">
+    <h3>{{ quiz.questions[current].question }}</h3>
+
+    <div class="options">
+      <button
+        *ngFor="let option of quiz.questions[current].options"
+        (click)="selected = option"
+        [ngClass]="{ 'selected': selected === option }"
+      >
+        {{ option }}
+      </button>
+    </div>
+  </div>
+
+  <button class="next-btn" (click)="next()" [disabled]="!selected">
+    Next
+  </button>
+</div>
+
+<div class="result-wrapper" *ngIf="finished">
+  <h2 class="quiz-complete">Quiz Complete!</h2>
+  <p class="score-text">Your Score: <strong>{{ score }}</strong> / {{ quiz.questions.length }}</p>
+  <a routerLink="/" class="home-btn">Back to Home</a>
+</div>
